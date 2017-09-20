@@ -23,13 +23,13 @@ Current Framework are composed by the below tech debt.<br>
 <br><br>
 
 <b>How to write tests :<br>
-![image](https://user-images.githubusercontent.com/19589895/30639027-f30109ce-9e1a-11e7-9d4d-add3a19f6a0f.png)<br>
 
+<img src="https://user-images.githubusercontent.com/19589895/30644756-1a4411e6-9e31-11e7-81e7-43a8d629fcd5.png" height="400" width="600"><br>
  
 &nbsp;&nbsp;►&nbsp;  Run <b>gulp Protractor</b> command from command line to run the feature/scenario.<br>
 &nbsp;&nbsp;►&nbsp;  Run <b>gulp Generate-TestResult</b> command from command in order to create html report for execution.<br>
  
-![image](https://user-images.githubusercontent.com/19589895/30639034-f870cc78-9e1a-11e7-8aa8-acfb2f2680df.png)<br>
+<img src="https://user-images.githubusercontent.com/19589895/30644762-1fc0c970-9e31-11e7-9845-569e7f97fc0c.png" height="400" width="600"><br>
 
 <br><br><br><br>
 

@@ -1,0 +1,14 @@
+{
+  "app": {
+    "product": {
+      "category": {
+        "Accessories": "Accessories",
+        "iMacs": "iMacs",
+        "iPads": "iPads",
+        "iPhones": "iPhones",
+        "iPods": "iPods",
+        "MacBooks": "MacBooks"
+      }
+    }
+  }
+}
